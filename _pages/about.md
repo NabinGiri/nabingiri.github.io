@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## Hi there! 👋
+Hi there! 👋
 
 I am a third-semester PhD student in computer science at the University of Missouri, Columbia with a passion for machine learning and software engineering.
 My research interest are computer vision, natural language processing, and bioinformatics. Lately, I have been focusing on using machine learning in bioinfomatics. 
