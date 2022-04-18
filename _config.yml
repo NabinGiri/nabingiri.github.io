@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Nabin Giri"
   avatar           : "profile.png"
-  bio              : "PhD student in computer science at the University of Missouri, Columbia. Insterested in system engineering, machine learning, computer vision, natural language processing, bioinformatics"
+  bio              : "PhD student in computer science at the University of Missouri, Columbia. Interested in machine learning, computer vision, natural language processing, and bioinformatics"
   location         : "Columbia, MO"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/nabin-giri/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-0251-3956"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "nvngiri2"
   vine             :
   weibo            :
   xing             :
