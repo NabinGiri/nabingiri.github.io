@@ -1,10 +1,7 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
-
-  - title: "Teaching"
-    url: /teaching/    
+    url: /publications/ 
     
   - title: "Portfolio"
     url: https://nabingiri.github.io/portfolio/
