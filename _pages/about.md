@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a third-semester PhD student in computer science at the University of Missouri, Columbia with a passion for machine learning and software engineering.
-My research interest are in geometric deeplearning, computer vision, natural language processing, and bioinformatics. Lately, I have been focusing on using machine learning in bioinfomatics. 
+My research interest are in geometric deep learning, computer vision, natural language processing, and bioinformatics. Lately, I have been focusing on using machine learning in bioinfomatics. 
 Feel free to reach out to me to talk about machine learning, software engineering, bioinformatics or anything in general! 
 
 # Recent Activities
