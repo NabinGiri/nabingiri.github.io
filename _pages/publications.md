@@ -11,13 +11,15 @@ author_profile: true
 
 {% include base_path %}
 
-**Nabin Giri** , Jianlin Cheng.  "[Artificial Intelligence (AI) Methodologies in Structural Biology section (2023) of Current Opinion in Structural Biology](https://www.journals.elsevier.com/current-opinion-in-structural-biology)" - Invited - Manuscript in preparation.
+**Nabin Giri** , Jianlin Cheng. <a href="https://www.journals.elsevier.com/current-opinion-in-structural-biology" target="_blank">Artificial Intelligence (AI) Methodologies in Structural Biology section (2023) of Current Opinion in Structural Biology</a> - Invited - Manuscript in Preparation
 
-**Nabin Giri** , Jianlin Cheng. "[A Deep Learning Bioinformatics Approach to Modeling Protein-Ligand Interaction with cryo-EM Data in 2021 Ligand Model Challenge](https://www.biorxiv.org/content/10.1101/2022.05.27.493799v1)".
+**Nabin Giri** , Jianlin Cheng. <a href="https://www.biorxiv.org/content/10.1101/2022.05.27.493799v1" target="_blank">A Deep Learning Bioinformatics Approach to Modeling Protein-Ligand Interaction with cryo-EM Data in 2021 Ligand Model Challenge</a>
 
-Gao, Mu, Peik Lund-Andersen, Alex Morehead, Sajid Mahmud, Chen Chen, Xiao Chen, **Nabin Giri** et al. "[High-Performance Deep Learning Toolbox for Genome-Scale Prediction of Protein Structure and Function](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9652872)" In 2021 IEEE/ACM Workshop on Machine Learning in High Performance Computing Environments (MLHPC), pp. 46-57. IEEE, 2021.
+Gao, Mu, Peik Lund-Andersen, Alex Morehead, Sajid Mahmud, Chen Chen, Xiao Chen, **Nabin Giri** et al. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9652872" target="_blank">High-Performance Deep Learning Toolbox for Genome-Scale Prediction of Protein Structure and Function</a>
 
 ---------------------------------------
-MSc Thesis \
-[Recommendation System Using Factorization Model And MapReduce Framework](https://ucmo.alma.exlibrisgroup.com/view/delivery/01UCMO_INST/12110769570005571) \
-[Three-minute thesis presentation](https://youtu.be/KVL9eQ35YSY)
+MSc Thesis
+
+<a href="https://ucmo.alma.exlibrisgroup.com/view/delivery/01UCMO_INST/12110769570005571" target="_blank">Recommendation System Using Factorization Model And MapReduce Framework</a>
+\
+<a href="https://youtu.be/KVL9eQ35YSY" target="_blank">Three-minute thesis presentation</a>
