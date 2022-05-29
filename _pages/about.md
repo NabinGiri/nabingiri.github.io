@@ -14,8 +14,9 @@ Feel free to reach out to me to talk about machine learning, software engineerin
 
 # Recent Achievements
 
-* Accepted for Oxford Machine Learning Summer School for both (ML x HEALTH and ML x FINANCE modules).
-* Our paper on EMDataResource 2021 Ligand Model Challenge is available in <a href="https://www.biorxiv.org/content/10.1101/2022.05.27.493799v1" target="_blank">bioRxiv</a>.
-* Submitted 1 paper in NeurIPS 2022.
-* Developed pipeline to predict protein-ligand complex for <a href="https://predictioncenter.org/casp15/index.cgi" target="_blank">Critical Assessment of Techniques for Protein Structure Prediction</a>.
-* Predicted and submitted protein-ligand models using cryo-EM maps for <a href="https://challenges.emdataresource.org/?q=2021-model-challenge" target="_blank">EMDataResource 2021 Ligand Model Challenge</a>. Presented our pipeline in the conference.
+* May 29, 2022 &nbsp; &nbsp; Our paper on EMDataResource 2021 Ligand Model Challenge is available in <a href="https://www.biorxiv.org/content/10.1101/2022.05.27.493799v1" target="_blank">bioRxiv</a> 🌟
+* May 26, 2022 &nbsp; &nbsp; Submitted 1 paper in NeurIPS | 2022
+* May 20, 2022 &nbsp; &nbsp; Accepted for Oxford Machine Learning Summer School for both (Health and Finance modules) 🌟
+* May 25, 2022 &nbsp; &nbsp; Developed pipeline to predict protein-ligand complex for <a href="https://predictioncenter.org/casp15/index.cgi" target="_blank">CASP15</a>
+* July 26, 2022 &nbsp; &nbsp; Predicted, submitted and presented our pipeline (DeepProLigand) for <a href="https://challenges.emdataresource.org/?q=2021-model-challenge" target="_blank">EMDataResource 2021 Ligand Model Challenge</a>
+* Sep 08, 2021 &nbsp; &nbsp; Accepted and attended <a href="https://cryoem.slac.stanford.edu/s2c2/" target="_blank">Stanford-SLAC Cryo-EM Center CryoEM Map Modeling and Validation Workshop</a>
