@@ -11,7 +11,9 @@ author_profile: true
 
 {% include base_path %}
 
-**Nabin Giri** , Jianlin Cheng. "A Deep Learning Bioinformatics Approach to Modeling Protein-Ligand Interaction with cryo-EM Data in 2021 Ligand Model Challenge" In preparation.
+**Nabin Giri** , Jianlin Cheng.  "[Artificial Intelligence (AI) Methodologies in Structural Biology section (2023) of Current Opinion in Structural Biology](https://www.journals.elsevier.com/current-opinion-in-structural-biology)" - Invited - Manuscript in preparation.
+
+**Nabin Giri** , Jianlin Cheng. "[A Deep Learning Bioinformatics Approach to Modeling Protein-Ligand Interaction with cryo-EM Data in 2021 Ligand Model Challenge](https://www.biorxiv.org/content/10.1101/2022.05.27.493799v1)".
 
 Gao, Mu, Peik Lund-Andersen, Alex Morehead, Sajid Mahmud, Chen Chen, Xiao Chen, **Nabin Giri** et al. "[High-Performance Deep Learning Toolbox for Genome-Scale Prediction of Protein Structure and Function](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9652872)" In 2021 IEEE/ACM Workshop on Machine Learning in High Performance Computing Environments (MLHPC), pp. 46-57. IEEE, 2021.
 
