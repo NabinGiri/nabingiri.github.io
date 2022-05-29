@@ -14,7 +14,7 @@ Feel free to reach out to me to talk about machine learning, software engineerin
 
 # Selected Achievements
 
-* May 29, 2022 &nbsp; Paper on EMDataResource 2021 Ligand Model Challenge is available in <a href="https://www.biorxiv.org/content/10.1101/2022.05.27.493799v1" target="_blank">bioRxiv</a> 🌟
+* May 29, 2022 &nbsp; Our paper on 2021 Ligand Model Challenge is available in <a href="https://www.biorxiv.org/content/10.1101/2022.05.27.493799v1" target="_blank">bioRxiv</a> 🌟
 * May 26, 2022 &nbsp; Submitted 1 paper to NeurIPS 2022
 * May 20, 2022 &nbsp; Selected for Oxford Machine Learning Summer School 🌟
 * May 25, 2022 &nbsp; Developed pipeline to predict protein-ligand complex for <a href="https://predictioncenter.org/casp15/index.cgi" target="_blank">CASP15</a>
