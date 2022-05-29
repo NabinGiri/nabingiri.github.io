@@ -18,5 +18,5 @@ Feel free to reach out to me to talk about machine learning, software engineerin
 * May 26, 2022 &nbsp; Submitted 1 paper to NeurIPS 2022
 * May 20, 2022 &nbsp; Selected for Oxford Machine Learning Summer School 🌟
 * May 25, 2022 &nbsp; Developed pipeline to predict protein-ligand complex for <a href="https://predictioncenter.org/casp15/index.cgi" target="_blank">CASP15</a>
-* July 26, 2022 &nbsp; Developed, submitted and presented our pipeline (DeepProLigand) for <a href="https://challenges.emdataresource.org/?q=2021-model-challenge" target="_blank">2021 Ligand Model Challenge</a>
+* July 26, 2021 &nbsp; Developed, submitted and presented our pipeline (DeepProLigand) for <a href="https://challenges.emdataresource.org/?q=2021-model-challenge" target="_blank">2021 Ligand Model Challenge</a>
 * Sep 08, 2021 &nbsp; Selected and attended <a href="https://cryoem.slac.stanford.edu/s2c2/" target="_blank">Stanford-SLAC Cryo-EM Center CryoEM Map Modeling and Validation Workshop</a>
