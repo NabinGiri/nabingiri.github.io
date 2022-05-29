@@ -14,6 +14,7 @@ Feel free to reach out to me to talk about machine learning, software engineerin
 
 # Recent Activities
 
-* Developed pipeline for [CASP15](https://predictioncenter.org/casp15/index.cgi) protein-ligand complexes prediction
-* Developed and submitted models for [2021 Ligand Model Challenge](https://challenges.emdataresource.org/?q=2021-model-challenge), manuscript in
-preparation
+* Our paper on EMDataResource 2021 Ligand Model Challenge is available in [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.05.27.493799v1) :star2: 
+* Submitted 1 paper in NeurIPS 2022
+* Developed pipeline to predict protein-ligand complex for [Critical Assessment of Techniques for Protein Structure Prediction](https://predictioncenter.org/casp15/index.cgi)
+* Predicted and submitted protein-ligand models using cyro-EM maps for [EMDataResource 2021 Ligand Model Challenge](https://challenges.emdataresource.org/?q=2021-model-challenge)
