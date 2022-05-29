@@ -19,7 +19,6 @@ Gao, Mu, Peik Lund-Andersen, Alex Morehead, Sajid Mahmud, Chen Chen, Xiao Chen, 
 
 ---------------------------------------
 MSc Thesis
-
-<a href="https://ucmo.alma.exlibrisgroup.com/view/delivery/01UCMO_INST/12110769570005571" target="_blank">Recommendation System Using Factorization Model And MapReduce Framework</a>
+<a href="https://zenodo.org/record/6591586#.YpPLquzMJBY" target="_blank">Recommendation System Using Factorization Model And MapReduce Framework</a>
 \
 <a href="https://youtu.be/KVL9eQ35YSY" target="_blank">Three-minute thesis presentation</a>
