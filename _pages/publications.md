@@ -13,6 +13,8 @@ author_profile: true
 
 **Nabin Giri** , Jianlin Cheng. <a href="https://www.journals.elsevier.com/current-opinion-in-structural-biology" target="_blank">Artificial Intelligence (AI) Methodologies in Structural Biology section (2023) of Current Opinion in Structural Biology</a> - Invited - Manuscript in Preparation
 
+Elham Soltanikazemi, Raj S. Roy, Farhan Quadir, **Nabin Giri**, Alex Morehead, Jianlin Cheng. <a href="https://arxiv.org/abs/2205.13594" target="_blank">DRLComplex: Reconstruction of protein quaternary structures using deep reinforcement learning</a>
+
 **Nabin Giri** , Jianlin Cheng. <a href="https://www.biorxiv.org/content/10.1101/2022.05.27.493799v1" target="_blank">A Deep Learning Bioinformatics Approach to Modeling Protein-Ligand Interaction with cryo-EM Data in 2021 Ligand Model Challenge</a>
 
 Gao, Mu, Peik Lund-Andersen, Alex Morehead, Sajid Mahmud, Chen Chen, Xiao Chen, **Nabin Giri** et al. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9652872" target="_blank">High-Performance Deep Learning Toolbox for Genome-Scale Prediction of Protein Structure and Function</a>
