@@ -11,17 +11,14 @@ author_profile: true
 
 {% include base_path %}
 
-**Nabin Giri** , Jianlin Cheng. <a href="https://www.journals.elsevier.com/current-opinion-in-structural-biology" target="_blank">Artificial Intelligence (AI) Methodologies in Structural Biology section (2023) of Current Opinion in Structural Biology</a> - Invited - Manuscript in Preparation
+**Nabin Giri** , Jianlin Cheng. <a href="https://www.journals.elsevier.com/current-opinion-in-structural-biology" target="_blank">Artificial Intelligence (AI) Methodologies in Structural Biology section (2023) of Current Opinion in Structural Biology</a> - *Invited - Manuscript in Preparation*
 
-Elham Soltanikazemi, Raj S. Roy, Farhan Quadir, **Nabin Giri**, Alex Morehead, Jianlin Cheng. <a href="https://arxiv.org/abs/2205.13594" target="_blank">DRLComplex: Reconstruction of protein quaternary structures using deep reinforcement learning</a>
+Elham Soltanikazemi, Raj S. Roy, Farhan Quadir, **Nabin Giri**, Alex Morehead, Jianlin Cheng. <a href="https://arxiv.org/abs/2205.13594" target="_blank">DRLComplex: Reconstruction of protein quaternary structures using deep reinforcement learning</a> - *Preprint*
 
-**Nabin Giri** , Jianlin Cheng. <a href="https://www.biorxiv.org/content/10.1101/2022.05.27.493799v1" target="_blank">A Deep Learning Bioinformatics Approach to Modeling Protein-Ligand Interaction with cryo-EM Data in 2021 Ligand Model Challenge</a>
+**Nabin Giri** , Jianlin Cheng. <a href="https://www.biorxiv.org/content/10.1101/2022.05.27.493799v1" target="_blank">A Deep Learning Bioinformatics Approach to Modeling Protein-Ligand Interaction with cryo-EM Data in 2021 Ligand Model Challenge</a> - *Preprint*
 
-Gao, Mu, Peik Lund-Andersen, Alex Morehead, Sajid Mahmud, Chen Chen, Xiao Chen, **Nabin Giri** et al. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9652872" target="_blank">High-Performance Deep Learning Toolbox for Genome-Scale Prediction of Protein Structure and Function</a>
+Gao, Mu, Peik Lund-Andersen, Alex Morehead, Sajid Mahmud, Chen Chen, Xiao Chen, **Nabin Giri** et al. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9652872" target="_blank">High-Performance Deep Learning Toolbox for Genome-Scale Prediction of Protein Structure and Function</a> - *2021 IEEE/ACM Workshop on Machine Learning in High Performance Computing Environments (MLHPC)*
 
 ---------------------------------------
-MSc Thesis
+My master's thesis titled **Recommendation System Using Factorization Model and MapReduce Framework** is availble <a href="https://zenodo.org/record/6591586#.YpPLquzMJBY" target="_blank">here</a>, the codes are available in GitHub <a href="https://github.com/nabingiri/recommendation-system" target="_blank">repository</a>, and to watch the three-minute thesis presentation please go  <a href="https://youtu.be/KVL9eQ35YSY" target="_blank">here</a>.
 
-<a href="https://zenodo.org/record/6591586#.YpPLquzMJBY" target="_blank">Recommendation System Using Factorization Model And MapReduce Framework</a>
-\
-<a href="https://youtu.be/KVL9eQ35YSY" target="_blank">Three-minute thesis presentation</a>
