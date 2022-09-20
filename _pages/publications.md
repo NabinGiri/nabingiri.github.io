@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-**Nabin Giri** , Jianlin Cheng. <a href="https://www.journals.elsevier.com/current-opinion-in-structural-biology" target="_blank">Artificial Intelligence (AI) Methodologies in Structural Biology section (2023) of Current Opinion in Structural Biology</a> - *Invited - Manuscript in Preparation*
+**Nabin Giri** , Raj S. Roy, Jianlin Cheng. <a href="https://arxiv.org/abs/2209.08171" target="_blank">Deep learning for reconstructing protein structures from cryo-EM density maps: recent advances and future directions</a> - *Preprint*
 
 Elham Soltanikazemi, Raj S. Roy, Farhan Quadir, **Nabin Giri**, Alex Morehead, Jianlin Cheng. <a href="https://arxiv.org/abs/2205.13594" target="_blank">DRLComplex: Reconstruction of protein quaternary structures using deep reinforcement learning</a> - *Preprint*
 
