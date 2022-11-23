@@ -13,7 +13,7 @@ author_profile: true
 
 **Nabin Giri** , Raj S. Roy, Jianlin Cheng. <a href="https://arxiv.org/abs/2209.08171" target="_blank">Deep learning for reconstructing protein structures from cryo-EM density maps: recent advances and future directions</a> - *Preprint*
 
-**Nabin Giri** , Jianlin Cheng. <a href="https://www.biorxiv.org/content/10.1101/2022.05.27.493799v1" target="_blank">A Deep Learning Bioinformatics Approach to Modeling Protein-Ligand Interaction with cryo-EM Data in 2021 Ligand Model Challenge</a> - *Preprint*
+**Nabin Giri** , Jianlin Cheng. <a href="https://www.biorxiv.org/content/10.1101/2022.05.27.493799v2" target="_blank">A Deep Learning Bioinformatics Approach to Modeling Protein-Ligand Interaction with cryo-EM Data in 2021 Ligand Model Challenge</a> - *Preprint*
 
 Elham Soltanikazemi, Raj S. Roy, Farhan Quadir, **Nabin Giri**, Alex Morehead, Jianlin Cheng. <a href="https://arxiv.org/abs/2205.13594" target="_blank">DRLComplex: Reconstruction of protein quaternary structures using deep reinforcement learning</a> - *Preprint*
 
