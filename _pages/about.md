@@ -14,8 +14,11 @@ Feel free to reach out to me to talk about machine learning, software engineerin
 
 ## Recent Achievements
 
-* Sep 19, 2022 &nbsp; Our paper on Deep learning for reconstructing protein structures from cryo-EM density maps: recent advances and future directions is available in <a href="https://arxiv.org/abs/2209.08171" target="_blank">arXiv</a> 
-* May 30, 2022 &nbsp; Our paper on Reconstruction of protein quaternary structures using deep reinforcement learning is available in <a href="https://doi.org/10.48550/arXiv.2205.13594" target="_blank">arXiv</a> 
+* Dec 10, 2022 &nbsp; Our method on "MultimerEVA: Estimating the accuracy of structures of protein
+multimers using pairwise structure comparison and deep learning inter-chain distance prediction" is available in  <a href="https://predictioncenter.org/casp15/doc/CASP15_Abstracts.pdf" target="_blank">CASP15 Abstract Book</a>  🌟 Ranked 1st in CASP15 🌟
+* Nov 20, 2022 &nbsp; Our method on "Template-based Modeling for Accurate Prediction of Ligand-Protein Complex Structures in CASP15" is available in  <a href="https://predictioncenter.org/casp15/doc/CASP15_Abstracts.pdf" target="_blank">CASP15 Abstract Book</a> 
+* Sep 19, 2022 &nbsp; Our paper on "Deep learning for reconstructing protein structures from cryo-EM density maps: recent advances and future directions" is available in <a href="https://arxiv.org/abs/2209.08171" target="_blank">arXiv</a> 
+* May 30, 2022 &nbsp; Our paper on "Reconstruction of protein quaternary structures using deep reinforcement learning" is available in <a href="https://doi.org/10.48550/arXiv.2205.13594" target="_blank">arXiv</a> 
 * May 29, 2022 &nbsp; Our paper on 2021 Ligand Model Challenge is available in <a href="https://www.biorxiv.org/content/10.1101/2022.05.27.493799v2" target="_blank">bioRxiv</a> 
 * May 20, 2022 &nbsp; Selected for Oxford Machine Learning Summer School 🌟
 * May 25, 2022 &nbsp; Developed pipeline to predict protein-ligand complex for <a href="https://predictioncenter.org/casp15/index.cgi" target="_blank">CASP15</a>
