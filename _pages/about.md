@@ -8,14 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in computer science at the University of Missouri, Columbia with a passion for machine learning and software engineering.
-My research interest are in geometric deep learning, computer vision, natural language processing, and bioinformatics. Lately, I have been focusing on using machine learning in bioinfomatics. 
-Feel free to reach out to me to talk about machine learning, software engineering, bioinformatics or anything in general! 
+I am a PhD student in computer science at <a href="https://missouri.edu" target="_blank"> Mizzou</a>, with a strong interest in machine learning and software engineering. My research interests include geometric deep learning, computer vision, natural language processing, and bioinformatics. Recently, I've been focusing on the use of deep learning in bioinfomatics. Please contact me if you want to discuss machine learning, software engineering, bioinformatics, or anything in general! 
 
 ## Recent Achievements
 
 * Dec 10, 2022 &nbsp; Our method on "MultimerEVA: Estimating the accuracy of structures of protein
-multimers using pairwise structure comparison and deep learning inter-chain distance prediction" is available in  <a href="https://predictioncenter.org/casp15/doc/CASP15_Abstracts.pdf" target="_blank">CASP15 Abstract Book</a>  🌟 Ranked 1st in CASP15 🌟
+multimers using pairwise structure comparison and deep learning inter-chain distance prediction" is available in  <a href="https://predictioncenter.org/casp15/doc/CASP15_Abstracts.pdf" target="_blank">CASP15 Abstract Book</a>  🌟 ***Ranked 1st in CASP15*** 🌟
 * Nov 20, 2022 &nbsp; Our method on "Template-based Modeling for Accurate Prediction of Ligand-Protein Complex Structures in CASP15" is available in  <a href="https://predictioncenter.org/casp15/doc/CASP15_Abstracts.pdf" target="_blank">CASP15 Abstract Book</a> 
 * Sep 19, 2022 &nbsp; Our paper on "Deep learning for reconstructing protein structures from cryo-EM density maps: recent advances and future directions" is available in <a href="https://arxiv.org/abs/2209.08171" target="_blank">arXiv</a> 
 * May 30, 2022 &nbsp; Our paper on "Reconstruction of protein quaternary structures using deep reinforcement learning" is available in <a href="https://doi.org/10.48550/arXiv.2205.13594" target="_blank">arXiv</a> 
