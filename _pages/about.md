@@ -12,7 +12,7 @@ I am a PhD student in computer science at <a href="https://missouri.edu" target=
 
 ## Recent Achievements
 
-* Jan 11, 2023 &nbsp; Featured in article discussing our achievement in CASP15 - <a href="https://engineering.missouri.edu/2023/mizzou-team-ranks-first-in-category-at-casp15-protein-prediction-competition/" target="_blank">Mizzou Engineering News</a> 🌟
+* Jan 11, 2023 &nbsp; Featured in an article discussing our achievement in CASP15 - <a href="https://engineering.missouri.edu/2023/mizzou-team-ranks-first-in-category-at-casp15-protein-prediction-competition/" target="_blank">Mizzou Engineering News</a> 🌟
 * Jan 6, 2023 &nbsp; Our paper "Improving Protein–Ligand Interaction Modeling with cryo-EM Data, Templates, and Deep Learning in 2021 Ligand Model Challenge" is available in <a href="https://www.mdpi.com/2218-273X/13/1/132" target="_blank">Biomolecules Journal</a> 
 * Dec 10, 2022 &nbsp; Our method "MultimerEVA: Estimating the accuracy of structures of protein
 multimers using pairwise structure comparison and deep learning inter-chain distance prediction" is available in  <a href="https://predictioncenter.org/casp15/doc/CASP15_Abstracts.pdf" target="_blank">CASP15 Abstract Book</a>  🌟 ***Ranked 1st in CASP15*** 🌟
