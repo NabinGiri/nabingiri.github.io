@@ -12,9 +12,13 @@ author_profile: true
 {% include base_path %}
 
 
-**Nabin Giri** , Raj S. Roy, Jianlin Cheng. <a href="https://arxiv.org/abs/2209.08171" target="_blank">Deep learning for reconstructing protein structures from cryo-EM density maps: recent advances and future directions</a> - *Manuscript in review*
+**Nabin Giri** , Raj S. Roy, Jianlin Cheng. <a href="https://arxiv.org/abs/2209.08171" target="_blank">Deep learning for reconstructing protein structures from cryo-EM density maps: recent advances and future directions</a> - Current Opinion in Structural Biology
 
-**Nabin Giri** , Jianlin Cheng. <a href="https://doi.org/10.1101/2022.05.27.493799" target="_blank">Improving Protein-Ligand Interaction Modeling with cryo-EM Data, Templates, and Deep Learning in 2021 Ligand Model Challenge</a> - *Manuscript in review*
+**Nabin Giri** , Jianlin Cheng. <a href="https://doi.org/10.3390/biom13010132" target="_blank">Improving Protein-Ligand Interaction Modeling with cryo-EM Data, Templates, and Deep Learning in 2021 Ligand Model Challenge</a> - Biomolecules
+
+**Nabin Giri**, Ashwin Dhakal, Jian Liu, Jianlin Cheng. <a href="https://predictioncenter.org/casp15/doc/CASP15_Abstracts.pdf" target="_blank">Template-based Modeling for Accurate Prediction of Ligand-Protein Complex Structures in CASP15</a> - CASP15 Abstract Book
+
+Raj S. Roy, Jian Liu, **Nabin Giri**, Zhiye Guo, Jianlin Cheng. <a href="https://predictioncenter.org/casp15/doc/CASP15_Abstracts.pdf" target="_blank">Multimer Model Quality Assessment Using Gated-Graph Transformer, Steerable Equivariant Graph Neural Networks, and Pairwise Model Similarity</a> - CASP15 Abstract Book -  **Ranked 1st in CASP15**  🎉
 
 Elham Soltanikazemi, Raj S. Roy, Farhan Quadir, **Nabin Giri**, Alex Morehead, Jianlin Cheng. <a href="https://arxiv.org/abs/2205.13594" target="_blank">DRLComplex: Reconstruction of protein quaternary structures using deep reinforcement learning</a> - *Preprint*
 
