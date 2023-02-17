@@ -12,7 +12,7 @@ I am a PhD student in computer science at <a href="https://missouri.edu" target=
 
 ## Recent Achievements
 
-* Feb 9, 2023 &nbsp; Our paper "Deep learning for reconstructing protein structures from cryo-EM density maps: recent advances and future directions" is available in <a href="https://doi.org/10.1016/j.sbi.2023.102536" target="_blank">arXiv</a> 
+* Feb 9, 2023 &nbsp; Our paper "Deep learning for reconstructing protein structures from cryo-EM density maps: recent advances and future directions" is available in <a href="https://doi.org/10.1016/j.sbi.2023.102536" target="_blank">Current Opinion in Structural Biology </a> 
 * Jan 11, 2023 &nbsp; Featured in an article discussing our achievement in CASP15 - <a href="https://engineering.missouri.edu/2023/mizzou-team-ranks-first-in-category-at-casp15-protein-prediction-competition/" target="_blank">Mizzou Engineering News</a> 🌟
 * Jan 6, 2023 &nbsp; Our paper "Improving Protein–Ligand Interaction Modeling with cryo-EM Data, Templates, and Deep Learning in 2021 Ligand Model Challenge" is available in <a href="https://www.mdpi.com/2218-273X/13/1/132" target="_blank">Biomolecules </a> 
 * Dec 10, 2022 &nbsp; Our method "MultimerEVA: Estimating the accuracy of structures of protein
