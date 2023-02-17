@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 
-**Nabin Giri** , Raj S. Roy, Jianlin Cheng. <a href="https://arxiv.org/abs/2209.08171" target="_blank">Deep learning for reconstructing protein structures from cryo-EM density maps: recent advances and future directions</a> - Current Opinion in Structural Biology
+**Nabin Giri** , Raj S. Roy, Jianlin Cheng. <a href="https://doi.org/10.1016/j.sbi.2023.102536" target="_blank">Deep learning for reconstructing protein structures from cryo-EM density maps: recent advances and future directions</a> - Current Opinion in Structural Biology
 
 **Nabin Giri** , Jianlin Cheng. <a href="https://doi.org/10.3390/biom13010132" target="_blank">Improving Protein-Ligand Interaction Modeling with cryo-EM Data, Templates, and Deep Learning in 2021 Ligand Model Challenge</a> - Biomolecules
 
