@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in computer science at <a href="https://missouri.edu" target="_blank"> Mizzou</a>, with a strong interest in machine learning and software engineering. My research interests include geometric deep learning, computer vision, natural language processing, and bioinformatics. Recently, I've been focusing on the use of deep learning in bioinfomatics. Please contact me if you want to discuss machine learning, software engineering, bioinformatics, or anything in general! I am currently working as a Software Engineer Intern with an amazing team at BIOVIA :mega: . 
+I am a PhD student in computer science at <a href="https://missouri.edu" target="_blank"> Mizzou</a>, with a strong interest in machine learning and software engineering. My research interests include geometric deep learning, computer vision, natural language processing, and bioinformatics. Recently, I've been focusing on the use of deep learning in bioinfomatics. Please contact me if you want to discuss machine learning, software engineering, bioinformatics, or anything in general! I am currently working as a Software Engineer Intern with an amazing team at BIOVIA. 
 
 ## Recent Achievements
 
