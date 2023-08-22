@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in computer science at <a href="https://missouri.edu" target="_blank"> Mizzou</a>, with a strong interest in machine learning and software engineering. My research interests include geometric deep learning, computer vision, natural language processing, and bioinformatics. Recently, I've been focusing on the use of deep learning in bioinfomatics. Please contact me if you want to discuss machine learning, software engineering, bioinformatics, or anything in general! I am currently working as a Software Engineer Intern with an amazing team at BIOVIA. 
+I am a PhD student in computer science at <a href="https://missouri.edu" target="_blank"> Mizzou</a>, with a strong interest in machine learning and software engineering. My research interests include geometric deep learning, computer vision, natural language processing, and bioinformatics. Recently, I've been focusing on the use of deep learning in bioinfomatics. Please contact me if you want to discuss machine learning, software engineering, bioinformatics, or anything in general!
 
 ## Recent Achievements
 
 
-* July 13 - 16, 2023 &nbsp; Attending Oxford Machine Learning Summer School (OxML 2023) : Health Track (MLx Health)
+* July 13 - 16, 2023 &nbsp; Attended Oxford Machine Learning Summer School (OxML 2023) : Health Track (MLx Health)
 * June 30, 2023 &nbsp; Our paper "Combining pairwise structural similarity and deep learning interface contact prediction to estimate protein complex model accuracy in CASP15" is available in <a href="https://doi.org/10.1002/prot.26542" target="_blank">PROTEINS </a>
 * June 15, 2023 &nbsp; Our preprint paper "Cryo2Struct : A Large Labeled Cryo-EM Density Map Dataset for AI-based Reconstruction of Protein Structures" is available in <a href="https://doi.org/10.1101/2023.06.14.545024" target="_blank">bioRxiv </a>
 * Feb 9, 2023 &nbsp; Our paper "Deep learning for reconstructing protein structures from cryo-EM density maps: recent advances and future directions" is available in <a href="https://doi.org/10.1016/j.sbi.2023.102536" target="_blank">Current Opinion in Structural Biology </a> 
