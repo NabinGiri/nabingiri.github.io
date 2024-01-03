@@ -12,10 +12,10 @@ I am a PhD student in computer science at <a href="https://missouri.edu" target=
 
 ## Recent Achievements
 
-
+* Jan 02, 2024 &nbsp; Our preprint paper "Cryo2Struct: De Novo Atomic Protein Structure Modeling for Cryo-EM Density Maps Using 3D Transformer and Hidden Markov Model" is available in <a href="https://www.biorxiv.org/content/10.1101/2024.01.02.573943v1" target="_blank">bioRxiv </a>. <a href="https://github.com/jianlin-cheng/Cryo2Struct" target="_blank">GitHub </a>
+* Jan 02, 2024 &nbsp; Our preprint paper "Cryo2StructData: A Large Labeled Cryo-EM Density Map Dataset for AI-based Modeling of Protein Structures" is available in <a href="https://www.biorxiv.org/content/10.1101/2023.06.14.545024v2" target="_blank">bioRxiv </a>. <a href="https://github.com/BioinfoMachineLearning/cryo2struct" target="_blank">GitHub </a>
 * July 13 - 16, 2023 &nbsp; Attended Oxford Machine Learning Summer School (OxML 2023) : Health Track (MLx Health)
 * June 30, 2023 &nbsp; Our paper "Combining pairwise structural similarity and deep learning interface contact prediction to estimate protein complex model accuracy in CASP15" is available in <a href="https://doi.org/10.1002/prot.26542" target="_blank">PROTEINS </a>
-* June 15, 2023 &nbsp; Our preprint paper "Cryo2Struct : A Large Labeled Cryo-EM Density Map Dataset for AI-based Reconstruction of Protein Structures" is available in <a href="https://doi.org/10.1101/2023.06.14.545024" target="_blank">bioRxiv </a>
 * Feb 9, 2023 &nbsp; Our paper "Deep learning for reconstructing protein structures from cryo-EM density maps: recent advances and future directions" is available in <a href="https://doi.org/10.1016/j.sbi.2023.102536" target="_blank">Current Opinion in Structural Biology </a> 
 * Jan 11, 2023 &nbsp; Featured in an article discussing our achievement in CASP15 - <a href="https://engineering.missouri.edu/2023/mizzou-team-ranks-first-in-category-at-casp15-protein-prediction-competition/" target="_blank">Mizzou Engineering News</a> 🌟
 * Jan 6, 2023 &nbsp; Our paper "Improving Protein–Ligand Interaction Modeling with cryo-EM Data, Templates, and Deep Learning in 2021 Ligand Model Challenge" is available in <a href="https://www.mdpi.com/2218-273X/13/1/132" target="_blank">Biomolecules </a> 
