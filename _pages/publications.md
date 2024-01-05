@@ -11,7 +11,9 @@ author_profile: true
 
 {% include base_path %}
 
-**Nabin Giri**, Jianlin Cheng. <a href="https://doi.org/10.1101/2023.06.14.545024" target="_blank"> Cryo2Struct : A Large Labeled Cryo-EM Density Map Dataset for AI-based Reconstruction of Protein Structures</a> - Preprint in bioRxiv
+**Nabin Giri**, Jianlin Cheng. <a href="https://www.biorxiv.org/content/10.1101/2024.01.02.573943v1" target="_blank">Cryo2Struct: De Novo Atomic Protein Structure Modeling for Cryo-EM Density Maps Using 3D Transformer and Hidden Markov Model</a>. <a href="https://github.com/jianlin-cheng/Cryo2Struct" target="_blank">GitHub </a>. *Preprint*
+
+**Nabin Giri**, Liguo Wang, Jianlin Cheng. <a href="https://www.biorxiv.org/content/10.1101/2023.06.14.545024v2" target="_blank">Cryo2StructData: A Large Labeled Cryo-EM Density Map Dataset for AI-based Modeling of Protein Structures</a>. <a href="https://github.com/BioinfoMachineLearning/cryo2struct" target="_blank">GitHub </a>. *Preprint*
 
 <a href="http://dx.doi.org/10.22541/au.168888815.53957253/v1" target="_blank">Impact of AlphaFold on Structure Prediction of Protein Complexes: The CASP15-CAPRI Experiment</a> - PROTEINS: Structure, Function, and Bioinformatics - Results of 5th joint CASP-CAPRI protein assembly prediction challenge
 
