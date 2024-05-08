@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in computer science at <a href="https://missouri.edu" target="_blank"> Mizzou</a>, with a strong interest in machine learning and software engineering. My research interests include geometric deep learning, computer vision, natural language processing, and bioinformatics. Recently, I've been focusing on the use of deep learning in bioinfomatics. Please contact me if you want to discuss machine learning, software engineering, bioinformatics, or anything in general!
+I am a PhD student in computer science at <a href="https://missouri.edu" target="_blank">Mizzou</a>, passionate about machine learning and software engineering. My research interests span geometric deep learning, computer vision, natural language processing, and computational biology. Lately, I've been focusing on designing, developing, and using state-of-the-art deep learning methods for structural biology research. Feel free to reach out if you'd like to discuss machine learning, software engineering, computational biology, or anything in general!
 
 ## Recent Achievements
 
+* May 08, 2024 &nbsp; Our paper "Cryo2StructData: A Large Labeled Cryo-EM Density Map Dataset for AI-based Modeling of Protein Structures" is now available in <a href="https://doi.org/10.1038/s41597-024-03299-9" target="_blank"> Nature Scientific Data </a>. <a href="https://github.com/BioinfoMachineLearning/cryo2struct" target="_blank">GitHub </a>
 * Jan 02, 2024 &nbsp; Our preprint paper "Cryo2Struct: De Novo Atomic Protein Structure Modeling for Cryo-EM Density Maps Using 3D Transformer and Hidden Markov Model" is available in <a href="https://www.biorxiv.org/content/10.1101/2024.01.02.573943v1" target="_blank">bioRxiv </a>. <a href="https://github.com/jianlin-cheng/Cryo2Struct" target="_blank">GitHub </a>
-* Jan 02, 2024 &nbsp; Our preprint paper "Cryo2StructData: A Large Labeled Cryo-EM Density Map Dataset for AI-based Modeling of Protein Structures" is available in <a href="https://www.biorxiv.org/content/10.1101/2023.06.14.545024v2" target="_blank">bioRxiv </a>. <a href="https://github.com/BioinfoMachineLearning/cryo2struct" target="_blank">GitHub </a>
 * Sep 1, 2023 &nbsp; Featured in a blog post by BIOVIA - <a href="https://blog.3ds.com/brands/biovia/journey-into-nabin-giris-biovia-internship-conformational-sampling-with-alphafold/" target="_blank">Journey into Nabin Giri’s BIOVIA Internship: Conformational Sampling with AlphaFold</a> 🌟
 * July 13 - 16, 2023 &nbsp; Attended Oxford Machine Learning Summer School (OxML 2023) : Health Track (MLx Health)
 * June 30, 2023 &nbsp; Our paper "Combining pairwise structural similarity and deep learning interface contact prediction to estimate protein complex model accuracy in CASP15" is available in <a href="https://doi.org/10.1002/prot.26542" target="_blank">PROTEINS </a>
