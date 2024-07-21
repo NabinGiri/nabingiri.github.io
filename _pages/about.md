@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student in Computer Science with a minor in Statistics at the <a href="https://missouri.edu/" target="_blank"> University of Missouri </a>, specializing in deep learning and bioinformatics. As a graduate researcher in the Bioinformatics and Machine Learning Lab, I develop innovative solutions at the intersection of statistics, deep learning, and structural biology. 
 
-Feel free to reach out if you'd like to discuss any of these topics or simply connect—I'm always open to engaging conversations and collaborations!
+Feel free to reach out if you'd like to discuss any of these topics or simply connect—I am always open to engaging conversations and collaborations!
 
 
 
