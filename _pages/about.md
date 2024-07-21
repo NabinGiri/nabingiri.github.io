@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in computer science at <a href="https://missouri.edu" target="_blank">Mizzou</a>, passionate about machine learning and software engineering. My research interests span geometric deep learning, computer vision, natural language processing, and computational biology. Lately, I've been focusing on designing, developing, and using state-of-the-art deep learning methods for structural biology research. Feel free to reach out if you'd like to discuss machine learning, software engineering, computational biology, or anything in general!
+I am a PhD student in Computer Science with a minor in Statistics at the <a href="https://missouri.edu/" target="_blank"> University of Missouri </a>, specializing in deep learning and bioinformatics. As a graduate researcher in the Bioinformatics and Machine Learning Lab, I develop innovative solutions at the intersection of statistics, deep learning, and structural biology. 
+
+Feel free to reach out if you'd like to discuss any of these topics or simply connect—I'm always open to engaging conversations and collaborations!
+
+
 
 ## Recent Achievements
 
