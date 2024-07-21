@@ -16,6 +16,7 @@ Feel free to reach out if you'd like to discuss any of these topics or simply co
 
 ## Recent Achievements
 
+* Jul 20, 2024 &nbsp; Published a blog post on Nature Portfolio Communities: Read [here](https://go.nature.com/4daiVBb).
 * Jul 01, 2024 &nbsp; Our paper, <ins> De novo atomic protein structure modeling for cryoEM density maps using 3D transformer and HMM</ins>, is now available in Nature Communication. <a href="https://doi.org/10.1038/s41467-024-49647-6" target="_blank"> Paper </a>. <a href="https://github.com/jianlin-cheng/Cryo2Struct" target="_blank">Cryo2Struct Code </a>
 * Jun 19, 2024 &nbsp; Our paper, <ins> Outcomes of the EMDataResource cryo-EM Ligand Modeling Challenge </ins>, is now available in Nature Methods. <a href="https://doi.org/10.1038/s41592-024-02321-7" target="_blank"> Paper </a>.
 * May 08, 2024 &nbsp; Our paper, <ins> Cryo2StructData: A Large Labeled Cryo-EM Density Map Dataset for AI-based Modeling of Protein Structures </ins>, is now available in Nature Scientific Data. <a href="https://doi.org/10.1038/s41597-024-03299-9" target="_blank"> Paper </a>. <a href="https://github.com/BioinfoMachineLearning/cryo2struct" target="_blank">Cryo2StructData Code </a>
