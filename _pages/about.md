@@ -15,7 +15,7 @@ Feel free to reach out if you'd like to discuss any of these topics or simply co
 
 
 ## Recent Achievements
-
+* Sep 23, 2024 &nbsp; Featured in an article highlighting our research paper. - <a href="https://showme.missouri.edu/2024/paving-the-way-for-new-treatments/" target="_blank">Paving the way for new treatments</a> 🌟
 * Jul 20, 2024 &nbsp; Published a blog post on Nature Portfolio Communities: Read <a href="https://go.nature.com/4daiVBb" target="_blank">here. </a>
 * Jul 01, 2024 &nbsp; Our paper, <ins> De novo atomic protein structure modeling for cryoEM density maps using 3D transformer and HMM</ins>, is now available in Nature Communication. <a href="https://doi.org/10.1038/s41467-024-49647-6" target="_blank"> Paper </a>. <a href="https://github.com/jianlin-cheng/Cryo2Struct" target="_blank">Cryo2Struct Code </a>
 * Jun 19, 2024 &nbsp; Our paper, <ins> Outcomes of the EMDataResource cryo-EM Ligand Modeling Challenge </ins>, is now available in Nature Methods. <a href="https://doi.org/10.1038/s41592-024-02321-7" target="_blank"> Paper </a>.
