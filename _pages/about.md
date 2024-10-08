@@ -28,5 +28,4 @@ Feel free to reach out if you'd like to discuss any of these topics or simply co
 * Jan 6, 2023 &nbsp; Our paper, <ins> Improving Protein–Ligand Interaction Modeling with cryo-EM Data, Templates, and Deep Learning in 2021 Ligand Model Challenge </ins>, is available in Biomolecules <a href="https://www.mdpi.com/2218-273X/13/1/132" target="_blank">Paper </a> 
 * Nov 20, 2022 &nbsp; Our method, <ins> Template-based Modeling for Accurate Prediction of Ligand-Protein Complex Structures in CASP15 </ins>, is available in  <a href="https://predictioncenter.org/casp15/doc/CASP15_Abstracts.pdf" target="_blank">CASP15 Abstract Book</a> 
 
-## Misc
-I am currently diving into the pages of *Don Quixote* and *The Brothers Karamazov* ..📚
+
