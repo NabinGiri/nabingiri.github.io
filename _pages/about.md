@@ -21,7 +21,7 @@ Before pursuing my MSc, I worked as a Software Engineer at Capgemini and led a t
 
 ## Selected Publications
 
-***Nabin Giri*** and Jianlin Cheng. <ins> De novo atomic protein structure modeling for cryoEM density maps using 3D transformer and HMM.</ins> Nature Communications 2024). &nbsp; Paper: <a href="https://doi.org/10.1038/s41467-024-49647-6" target="_blank">doi.org/10.1038/s41467-024-49647-6</a> &nbsp; Code: <a href="https://github.com/jianlin-cheng/Cryo2Struct" target="_blank">github.com/jianlin-cheng/Cryo2Struct</a>
+***Nabin Giri*** and Jianlin Cheng. <ins> De novo atomic protein structure modeling for cryoEM density maps using 3D transformer and HMM.</ins> Nature Communications (2024). &nbsp; Paper: <a href="https://doi.org/10.1038/s41467-024-49647-6" target="_blank">doi.org/10.1038/s41467-024-49647-6</a> &nbsp; Code: <a href="https://github.com/jianlin-cheng/Cryo2Struct" target="_blank">github.com/jianlin-cheng/Cryo2Struct</a>
 
 ***Nabin Giri***, Liguo Wang, and Jianlin Cheng. <ins> Cryo2StructData: A Large Labeled Cryo-EM Density Map Dataset for AI-based Modeling of Protein Structures.</ins> Nature Scientific Data (2024). &nbsp; Paper: <a href="https://doi.org/10.1038/s41597-024-03299-9" target="_blank">doi.org/10.1038/s41597-024-03299-9</a> &nbsp; Code: <a href="https://github.com/BioinfoMachineLearning/cryo2struct" target="_blank">github.com/BioinfoMachineLearning/cryo2struct</a> 
 
