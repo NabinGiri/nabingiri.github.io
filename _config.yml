@@ -75,17 +75,17 @@ social:
 analytics:
   provider               :  "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :  G-85YDZN2HD0
+    tracking_id          :  
 
 
 # Site Author
 author:
   name             : "Nabin Giri"
   avatar           : "nabin1.png"
-  bio              : "PhD candidate in computer science at the University of Missouri, Columbia. Interested in machine learning, computer vision, natural language processing, and bioinformatics"
+  bio              : "PhD candidate in computer science at the University of Missouri, Columbia."
   location         : "Columbia, MO"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Nabin+Giri"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=AkXTfE0AAAAJ&hl=en"
   email            : "ngzvh@missouri.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "nvngiri"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
