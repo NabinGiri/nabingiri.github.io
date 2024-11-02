@@ -25,7 +25,7 @@ Before pursuing my MSc, I worked as a Software Engineer at Capgemini and led a t
 
 ***Nabin Giri***, Liguo Wang, and Jianlin Cheng. <ins> Cryo2StructData: A Large Labeled Cryo-EM Density Map Dataset for AI-based Modeling of Protein Structures.</ins> &nbsp; Nature Scientific Data (2024). &nbsp; Paper: <a href="https://doi.org/10.1038/s41597-024-03299-9" target="_blank">doi.org/10.1038/s41597-024-03299-9</a> &nbsp; Code: <a href="https://github.com/BioinfoMachineLearning/cryo2struct" target="_blank">github.com/BioinfoMachineLearning/cryo2struct</a> 
 
-Catherine L Lawson, Andriy Kryshtafovych, Grigore D Pintilie, Stephen K Burley, . . . , ***Nabin Giri***, . . . , Michael F Schmid, Helen M Berman, Wah Chiu <ins> Outcomes of the EMDataResource Cryo-EM Ligand Modeling Challenge.</ins> &nbsp; Nature Methods (2024). &nbsp; Paper: <a href="https://doi.org/10.1038/s41592-024-02321-7" target="_blank">doi.org/10.1038/s41592-024-02321-7</a>
+Catherine L Lawson, Andriy Kryshtafovych, Grigore D Pintilie, Stephen K Burley, . . . , ***Nabin Giri***, . . . , Michael F Schmid, Helen M Berman, Wah Chiu. <ins> Outcomes of the EMDataResource Cryo-EM Ligand Modeling Challenge.</ins> &nbsp; Nature Methods (2024). &nbsp; Paper: <a href="https://doi.org/10.1038/s41592-024-02321-7" target="_blank">doi.org/10.1038/s41592-024-02321-7</a>
 
 ***Nabin Giri***, Raj S. Roy, and Jianlin Cheng. <ins> Deep learning for reconstructing protein structures from cryo-EM density maps: recent advances and future directions.</ins> &nbsp; Current Opinion in Structural Biology (2023). &nbsp; Paper: <a href="https://doi.org/10.1016/j.sbi.2023.102536" target="_blank">doi.org/10.1016/j.sbi.2023.102536</a> 
 
