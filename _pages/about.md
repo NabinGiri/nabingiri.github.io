@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<a href="https://drive.google.com/file/d/1sKZlgPq7jixuGZ9vSxOCkLX-1XXJzax1/view?usp=sharing" target="_blank">**CV**</a>
 
 I am a PhD candidate in Computer Science with a minor in Statistics at the University of Missouri, advised by Dr. Jianlin Cheng. My research focuses on designing, developing, and applying deep learning methods to advance computational biology.
 
