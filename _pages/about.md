@@ -9,12 +9,11 @@ redirect_from:
 ---
 <a href="https://drive.google.com/file/d/1sKZlgPq7jixuGZ9vSxOCkLX-1XXJzax1/view?usp=sharing" target="_blank">**CV**</a>
 
-I am a PhD candidate in Computer Science with a minor in Statistics at the University of Missouri, advised by Dr. Jianlin Cheng. My research focuses on designing, developing, and applying deep learning methods to advance computational biology.
+I am a PhD candidate in Computer Science with a minor in Statistics at the University of Missouri, where I work as a graduate researcher in the Bioinformatics and Machine Learning Lab under the supervision of Dr. Jianlin Cheng. My research focuses on designing, developing, and applying deep learning methods to advance computational biology.
 
+During my PhD, I attended the Oxford Machine Learning Summer School (2022-2023) and completed research internships with BIOVIA and Amazon. At BIOVIA, I developed an innovative AlphaFold-based deep learning workflow for conformational sampling, featured in a <a href="https://blog.3ds.com/brands/biovia/journey-into-nabin-giris-biovia-internship-conformational-sampling-with-alphafold/" target="_blank">BIOVIA blog post</a>. At Amazon, I fine-tuned multimodal models and developed deep learning models for relevance prediction.
 
-During my PhD, I attended the Oxford Machine Learning Summer School (2022-2023) and completed research internships at BIOVIA and Amazon. At BIOVIA, I developed an innovative AlphaFold-based deep learning workflow for conformational sampling, featured in a <a href="https://blog.3ds.com/brands/biovia/journey-into-nabin-giris-biovia-internship-conformational-sampling-with-alphafold/" target="_blank">BIOVIA blog post</a>. At Amazon, I fine-tuned multimodal models and developed deep learning models for relevance prediction.
-
-Prior to my PhD, I completed an MSc in Computer Science at the University of Central Missouri under Dr. Yui Man Lui's guidance. My thesis, <a href="https://zenodo.org/records/6591586" target="_blank"> Recommendation System Using Factorization Model and MapReduce Framework</a> received the Graduate Research Award. I also received a graduate housing scholarship for academic performance. Additionally, I worked as a graduate student worker and served as an international student ambassador.
+Prior to my PhD, I completed an MSc in Computer Science at the University of Central Missouri under the guidance of Dr. Yui Man Lui. My thesis, <a href="https://zenodo.org/records/6591586" target="_blank"> Recommendation System Using Factorization Model and MapReduce Framework</a> received the Graduate Research Award. I also received a graduate housing scholarship for academic performance. Additionally, I worked as a graduate student worker and served as an international student ambassador.
 
 Before pursuing my MSc, I worked as a Software Engineer at Capgemini and led a team as a System Engineer at Max International. I received my undergraduate degree in Computer Science from Bangalore University, where I developed two projects: Supermarket Management System and Online Admission System.
 
