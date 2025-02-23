@@ -9,7 +9,7 @@ redirect_from:
 ---
 <a href="https://drive.google.com/file/d/1sKZlgPq7jixuGZ9vSxOCkLX-1XXJzax1/view?usp=sharing" target="_blank">**CV**</a>
 
-I am a PhD candidate in Computer Science with a minor in Statistics at the University of Missouri, where I work as a graduate researcher in the Bioinformatics and Machine Learning Lab under the supervision of Dr. Jianlin Cheng. My research focuses on designing, developing, and applying deep learning methods to advance computational biology.
+I am a PhD candidate in Computer Science with a minor in Statistics at the University of Missouri, where I work as a graduate researcher in the Bioinformatics and Machine Learning Lab under the supervision of Dr. Jianlin Cheng. My research focuses on designing, developing, and applying deep learning methods to advance computational biology. I received the Outstanding PhD Student Award for my academic and research contributions.
 
 During my PhD, I attended the Oxford Machine Learning Summer School (2022-2023) and completed research internships with BIOVIA and Amazon. At BIOVIA, I developed an innovative AlphaFold-based deep learning workflow for conformational sampling, featured in a <a href="https://blog.3ds.com/brands/biovia/journey-into-nabin-giris-biovia-internship-conformational-sampling-with-alphafold/" target="_blank">BIOVIA blog post</a>. At Amazon, I fine-tuned multimodal models and developed deep learning models for relevance prediction.
 
